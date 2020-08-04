@@ -1,4 +1,4 @@
-# Abstract:
+# Author:Ahmet Zafer Sağlık   Abstract: 
  Nowadays, graph theory has a wide variety of usage domains such
 as world-wide-web, neuroscience, and social networks. Graph mining is based
 on insights of graph data. Link prediction, graph classification and community
@@ -37,3 +37,8 @@ several graph views into one and create better results. The attention mechanism
 can be used to solve the real-word data challenging issues on the graph representation.
 With this study, we expect our combination model can detect brain illness
 at the high accuracy.
+
+This is the code part for
+Run Main file without any paramether.All paramethers (epoch,learning rate etc) are hidden in code.As data set ı used LH an RH Mr scans of brain.Please check the paper writen by us. Thank you
+
+For more question:zafersaglk@gmail.com
