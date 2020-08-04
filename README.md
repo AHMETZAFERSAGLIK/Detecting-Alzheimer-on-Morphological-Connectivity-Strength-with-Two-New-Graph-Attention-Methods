@@ -38,7 +38,9 @@ can be used to solve the real-word data challenging issues on the graph represen
 With this study, we expect our combination model can detect brain illness
 at the high accuracy.
 
-This is the code part for
+This is the code part for Transformed
+Graph Classification using Structural Attention (TGCSA)
+
 Run Main file without any paramether.All paramethers (epoch,learning rate etc) are hidden in code.As data set ı used LH an RH Mr scans of brain.Please check the paper writen by us. Thank you
 
 For more question:zafersaglk@gmail.com
